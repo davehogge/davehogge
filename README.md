@@ -1,5 +1,4 @@
-<h1 align="center">Dave Hogge</h1>
-<h3 align="center">A dedicated front-end developer based in Washington, D.C.</h3>
+<img src="https://raw.githubusercontent.com/davehogge/davehogge/master/readme-header.png" alt="banner that says David Hogge, a front-end developer based in Washington, D.C.">
 
 ---
 
