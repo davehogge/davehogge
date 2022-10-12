@@ -3,7 +3,6 @@
 
 ---
 
-#### SKILLS
 **Languages, Frameworks, Libraries & Markup:**  
 Javascript (ES+), Typescript, Python, PHP, SASS, Angular, Vue, Backbone.JS, Drupal, Django, LoDash, Underscore, jQuery, Bootstrap, Foundation, Semantic HTML, Responsive CSS, CSS Variables, CSS Grid, Flexbox, Twig, Mustache, Handlebars, SVG, JSON
 
